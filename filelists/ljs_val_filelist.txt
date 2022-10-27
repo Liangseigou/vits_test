@@ -1,0 +1,98 @@
+LJSpeech/DUMMY1/LJ005-0110.wav|and so passing by the roof down into the garden and on to freedom.
+LJSpeech/DUMMY1/LJ005-0111.wav|In a county prison adjoining the metropolis, the separation between the male and female quarters was supposed to be accomplished by the erection of an iron railing;
+LJSpeech/DUMMY1/LJ005-0112.wav|in this same prison capital convicts were chained to the floor until execution.
+LJSpeech/DUMMY1/LJ005-0113.wav|In another jail not far off male and female felons still occupied the same room -- underground, and reached by a ladder of ten steps.
+LJSpeech/DUMMY1/LJ005-0114.wav|In others the separation between the sexes consisted in a hanging curtain
+LJSpeech/DUMMY1/LJ005-0115.wav|or an imaginary boundary line, and nothing prevented parties from passing to either side
+LJSpeech/DUMMY1/LJ005-0116.wav|but an empty regulation which all so disposed could defy.
+LJSpeech/DUMMY1/LJ005-0117.wav|Numbers of the jails were still unprovided with chaplains, and the prisoners never heard Divine service.
+LJSpeech/DUMMY1/LJ005-0118.wav|In many others there were no infirmaries, no places set apart for the confinement of prisoners afflicted with dangerous and infectious disorders.
+LJSpeech/DUMMY1/LJ005-0119.wav|No attempt was made to maintain discipline.
+LJSpeech/DUMMY1/LJ005-0120.wav|Half the jails had no code of rules properly prepared and sanctioned by the judges, according to law.
+LJSpeech/DUMMY1/LJ005-0121.wav|By degrees, however
+LJSpeech/DUMMY1/LJ005-0122.wav|the changes necessary to bring the prisons into conformity with the recent acts were attempted, if not actually introduced into the county prisons, to which
+LJSpeech/DUMMY1/LJ005-0123.wav|with a few of the more important city or borough prisons, these acts more especially applied.
+LJSpeech/DUMMY1/LJ005-0124.wav|Most of the local authorities embarked into considerable expenditure, determined to rebuild their jails de novo on the most approved pattern
+LJSpeech/DUMMY1/LJ005-0125.wav|or to reappropriate, reconstruct, and patch up the existing prisons till they were more in accordance with the growing requirements of the times.
+LJSpeech/DUMMY1/LJ005-0126.wav|Religious worship became more generally the rule; chaplains were appointed, and chapels provided for them; surgeons and hospitals also.
+LJSpeech/DUMMY1/LJ005-0128.wav|The interior of one prison was illuminated throughout with gas, -- still a novelty, which had been generally adopted in London only four years previously
+LJSpeech/DUMMY1/LJ005-0129.wav|"a measure which must greatly tend to discourage attempts to escape."
+LJSpeech/DUMMY1/LJ005-0130.wav|There were tread-wheels at most of the prisons, and regular employment thereon or at some other kind of hard labor.
+LJSpeech/DUMMY1/LJ005-0131.wav|In many places too where the prisoners earned money by their work, they were granted a portion of it for their own use after proper deduction for maintenance.
+LJSpeech/DUMMY1/LJ005-0132.wav|Only a few glaring evils still demanded a remedy.
+LJSpeech/DUMMY1/LJ005-0133.wav|The provision of separate sleeping cells was still quite inadequate. For instance
+LJSpeech/DUMMY1/LJ005-0134.wav|in twenty-two county jails there were one thousand sixty-three sleeping cells in all (in eighteen twenty-three)
+LJSpeech/DUMMY1/LJ005-0135.wav|and the average daily number committed that year amounted to three thousand, nine hundred eighty-five.
+LJSpeech/DUMMY1/LJ005-0136.wav|The want of sleeping cells long continued a crying need.
+LJSpeech/DUMMY1/LJ005-0137.wav|Four years later the Prison Society reported
+LJSpeech/DUMMY1/LJ005-0138.wav|that in four prisons, which at one time of the year contained one thousand three hundred eight prisoners, there were only sixty-eight sleeping rooms or cells
+LJSpeech/DUMMY1/LJ005-0139.wav|making an average of nineteen persons occupying each room.
+LJSpeech/DUMMY1/LJ005-0140.wav|At the New Prison, Clerkenwell, which had become the principal reception jail of Middlesex, and so took all the untried
+LJSpeech/DUMMY1/LJ005-0141.wav|the sleeping space per head was only sixteen inches, and often as many as two hundred ninety-three men had to be accommodated on barrack beds
+LJSpeech/DUMMY1/LJ005-0142.wav|occupying barely three hundred ninety feet lineal
+LJSpeech/DUMMY1/LJ005-0143.wav|The "scenes of tumult and obscenity" in these night rooms are said to have been beyond description; a prisoner in one nocturnal riot lost an eye.
+LJSpeech/DUMMY1/LJ005-0144.wav|Yet to Clerkenwell were now committed the juveniles, and all who were inexperienced in crime.
+LJSpeech/DUMMY1/LJ005-0145.wav|Great want of uniformity in treatment in the various prisons was still noticeable
+LJSpeech/DUMMY1/LJ005-0146.wav|and was indeed destined to continue for another half century, in other words, until the introduction of the Prison Act of eighteen seventy-seven.
+LJSpeech/DUMMY1/LJ005-0147.wav|At the time of which I am writing there was great diversity of practice as regards the hours of labor.
+LJSpeech/DUMMY1/LJ005-0148.wav|In some prisons the prisoners worked seven hours a day, in others ten and ten and a half.
+LJSpeech/DUMMY1/LJ005-0149.wav|The nature of the employment varied greatly in severity, especially the tread-wheel labor.
+LJSpeech/DUMMY1/LJ005-0150.wav|In some county jails, as I have already said, female prisoners were placed upon the tread-wheel;
+LJSpeech/DUMMY1/LJ005-0151.wav|in others women were very properly exempted from it, and also from all severe labor.
+LJSpeech/DUMMY1/LJ005-0152.wav|Earnings were very differently appropriated. Here the prisoners were given the whole amount, there a half or a third.
+LJSpeech/DUMMY1/LJ005-0153.wav|Sometimes this money might be expended in the purchase of extra articles of food.
+LJSpeech/DUMMY1/LJ005-0154.wav|The rations varied considerably everywhere.
+LJSpeech/DUMMY1/LJ005-0155.wav|It was still limited to bread in some places, the allowance of which varied from one to three pounds;
+LJSpeech/DUMMY1/LJ005-0156.wav|in others meat, soup, gruel, beer were given.
+LJSpeech/DUMMY1/LJ005-0157.wav|Here and there food was not issued in kind, but a money allowance which the prisoner might expend himself.
+LJSpeech/DUMMY1/LJ005-0158.wav|Bedding and clothing was still denied, but only in a few jails;
+LJSpeech/DUMMY1/LJ005-0159.wav|in others both were supplied in ample quantities, the cost varying per prisoner from twenty shillings to five pounds.
+LJSpeech/DUMMY1/LJ005-0160.wav|It was plain that although the law had defined general principles of prison government
+LJSpeech/DUMMY1/LJ005-0161.wav|too much discretion was still left to the magistracy to fill in the details. The legislature only recommended
+LJSpeech/DUMMY1/LJ005-0162.wav|it did not peremptorily insist. Too often the letter of the law was observed, but not its spirit.
+LJSpeech/DUMMY1/LJ005-0163.wav|One great impediment to wide amelioration was that a vast number of small jails lay out of reach of the law.
+LJSpeech/DUMMY1/LJ005-0164.wav|When the new acts were introduced, numerous prisons under local jurisdiction were exempted from the operation of the law.
+LJSpeech/DUMMY1/LJ005-0165.wav|They were so radically bad that reform seemed hopeless, and it was thought wiser not to bring them under provisions which clearly could not be enforced.
+LJSpeech/DUMMY1/LJ005-0166.wav|Mr. Peel, who as Home Secretary had charge of the bill
+LJSpeech/DUMMY1/LJ005-0167.wav|which became the four George the fourth cap. sixty-four, said that he had abstained from legislating for these small jurisdictions "on mature deliberation."
+LJSpeech/DUMMY1/LJ005-0168.wav|"It is not, he said, that I am insensible of the lamentable and disgraceful situation in which many of them are
+LJSpeech/DUMMY1/LJ005-0169.wav|but I indulge a hope that many of them will contract with the counties
+LJSpeech/DUMMY1/LJ005-0170.wav|that many of them will build new jails, and that when in a year or two we come to examine their situation
+LJSpeech/DUMMY1/LJ005-0171.wav|we shall find but few which have not in one or other of these ways removed the grievance of which such just complaint is made.
+LJSpeech/DUMMY1/LJ005-0172.wav|When that time arrives
+LJSpeech/DUMMY1/LJ005-0173.wav|I shall not hesitate to ask Parliament for powers to compel them to make the necessary alterations, for it is not to be endured that these local jurisdictions should remain
+LJSpeech/DUMMY1/LJ005-0174.wav|in the deplorable situation in which many of them now are."
+LJSpeech/DUMMY1/LJ005-0175.wav|At this time there were in England one hundred and seventy boroughs, cities, towns, and liberties
+LJSpeech/DUMMY1/LJ005-0176.wav|which possessed the right of trying criminals for various offenses.
+LJSpeech/DUMMY1/LJ005-0177.wav|Nearly every one of these jurisdictions had its own prison, and there were one hundred and sixty such jails in all.
+LJSpeech/DUMMY1/LJ005-0178.wav|Many of them consisted of one or two rooms at most.
+LJSpeech/DUMMY1/LJ005-0179.wav|he total number of prisoners they received during the year varied from two persons to many hundreds.
+LJSpeech/DUMMY1/LJ005-0180.wav|It was in these jails, withdrawn from the pressure of authority, that the new rules were invariably ignored.
+LJSpeech/DUMMY1/LJ005-0067.wav|The Prison Society reproves the misdirected efforts of ambitious architects, who by a lavish and improvident expenditure of public money
+LJSpeech/DUMMY1/LJ005-0068.wav|sought to "rank the prisons they built among the most splendid buildings of the city or town."
+LJSpeech/DUMMY1/LJ005-0069.wav|Absence of embellishment is in perfect unison with the character of the establishment.
+LJSpeech/DUMMY1/LJ005-0070.wav|These are principles fully recognized now-a-days, and it may fairly be conceded that the Prison Discipline Society's ideal
+LJSpeech/DUMMY1/LJ005-0071.wav|differed little from that kept in view in the construction of the latest and best modern jails.
+LJSpeech/DUMMY1/LJ005-0072.wav|After a few years of active exertion the Society was rewarded by fresh legislation.
+LJSpeech/DUMMY1/LJ005-0073.wav|To its efforts, and their effect upon Parliament and the public mind, we must attribute the new Jail Acts of four George the fourth
+LJSpeech/DUMMY1/LJ005-0074.wav|cap. sixty-four, and five George the fourth cap. eighty-five
+LJSpeech/DUMMY1/LJ005-0075.wav|which having gone through several sessions, at last became law in eighteen twenty-three to four
+LJSpeech/DUMMY1/LJ005-0076.wav|By the preamble of the first-named act it was declared
+LJSpeech/DUMMY1/LJ005-0077.wav|"expedient to introduce such measures and arrangements as shall not only provide for the safe custody
+LJSpeech/DUMMY1/LJ005-0078.wav|but shall also tend more effectually to preserve the health
+LJSpeech/DUMMY1/LJ005-0079.wav|and improve the morals of the prisoners, and shall insure the proper measure of punishment to convicted offenders.
+LJSpeech/DUMMY1/LJ005-0080.wav|Accordingly due provision was made for the enforcement of hard labor on all prisoners sentenced to it, and for the employment of all others.
+LJSpeech/DUMMY1/LJ005-0082.wav|unless such ability (to work) should cease by reason of sickness, infirmity, the want of sufficient work, or from any other cause.
+LJSpeech/DUMMY1/LJ005-0083.wav|It was distinctly laid down that male and female prisoners should be confined in separate buildings or parts of the prison
+LJSpeech/DUMMY1/LJ005-0084.wav|"so as to prevent them from seeing, conversing, or holding any intercourse with each other."
+LJSpeech/DUMMY1/LJ005-0085.wav|Classification was insisted upon, in the manner laid down by the twenty-four George the third cap. fifty-four
+LJSpeech/DUMMY1/LJ005-0086.wav|with such further separation as the justices should deem conducive to good order and discipline.
+LJSpeech/DUMMY1/LJ005-0087.wav|Female prisoners were in all cases to be under the charge of female officers.
+LJSpeech/DUMMY1/LJ005-0088.wav|Every prison containing female prisoners was to have a matron who was to reside constantly in the prison.
+LJSpeech/DUMMY1/LJ005-0089.wav|The religious and moral welfare of the prisoners were to be attended to
+LJSpeech/DUMMY1/LJ005-0090.wav|the first by daily services, the latter by the appointment of schoolmasters and instruction in reading and writing.
+LJSpeech/DUMMY1/LJ005-0051.wav|At the time of its greatest prosperity, its annual income from donations and subscriptions was about one thousand six hundred pounds.
+LJSpeech/DUMMY1/LJ005-0052.wav|Another point to which the Society devoted infinite pains was the preparation of plans for the guidance of architects in the construction of prisons.
+LJSpeech/DUMMY1/LJ005-0053.wav|A very valuable volume published by the Society
+LJSpeech/DUMMY1/LJ005-0054.wav|traced the progress of prison architecture from the days when the jail was the mere annexe of the baronial or episcopal castle
+LJSpeech/DUMMY1/LJ005-0055.wav|or a dungeon above or below the gate of a town, to the first attempts at systematic reconstruction carried out under the advice and supervision of Howard.
