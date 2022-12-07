@@ -101,5 +101,5 @@ def english_cleaners2(text):
 
 def japanese_cleaner(text):
   Jtext=phones=pyopenjtalk.g2p(text,kana=True)
-  ph = phonemize(Jtext, strip=False, njobs=1, backend='espeak', language='ja', preserve_punctuation=True, language_switch="remove-flags")
-  return ph
+  phonems = phonemize(Jtext, strip=False, njobs=1, backend='espeak', language='ja', preserve_punctuation=True, language_switch="remove-flags")
+  return phonems
